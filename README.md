@@ -1,2 +1,4 @@
 # pricing-panel
-A static pricing panel built in css that incorporates flex-box and media queries. 
+
+[:wave: Live Preview](https://riahamhari.github.io/pricing-panel/)
+A static pricing panel incorporates flex-box and media queries. 
